@@ -1,10 +1,10 @@
-package aulas;
+public aulas;
 
-public class Program {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+public class aulas	{
+	
+	public static void Program(String[] args);
+	
+	System.out.println("Bom dia!");
+	
+	
 }
